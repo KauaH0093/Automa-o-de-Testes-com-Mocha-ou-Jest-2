@@ -13,7 +13,7 @@ Para instalar as dependências, execute o comando:
 
 ## Teste
 
-Após baixar, va no terminal e execute o comando:
+Após baixar, vá no terminal e execute o comando:
 
 npm test
 
