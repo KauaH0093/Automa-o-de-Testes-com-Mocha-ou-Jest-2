@@ -7,8 +7,7 @@ Esta é uma aplicação simples de calculadora com funcionalidades de soma, subt
 
 Para instalar as dependências, execute o comando:  
 
-```bash  
-npm install jest --save-dev
+ npm install jest --save-dev
 
 
 
