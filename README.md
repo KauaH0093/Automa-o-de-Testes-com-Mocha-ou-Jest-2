@@ -3,6 +3,7 @@
 
 Esta é uma aplicação simples de calculadora com funcionalidades de soma, subtração, multiplicação e divisão.  
 
+
 ## Instalação  
 
 Para instalar as dependências, execute o comando:  
@@ -10,9 +11,13 @@ Para instalar as dependências, execute o comando:
  npm install jest --save-dev
 
 
+##Teste
+
+Após baixar, va no terminal e execute o comando:
+
+npm test
 
 
-4. **Relatório**  
 
 ### Relatório de Automação de Testes  
 
